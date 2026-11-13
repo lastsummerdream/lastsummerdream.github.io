@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.lastsummerdream.afterglow",
+    "sha256_cert_fingerprints": ["2D:78:7A:F0:01:98:85:F5:EB:73:C8:27:DF:88:46:BE:BB:7D:E4:B2:DD:41:CE:3D:7D:84:B7:13:9A:B2:96:F2"]
+  }
+}]
